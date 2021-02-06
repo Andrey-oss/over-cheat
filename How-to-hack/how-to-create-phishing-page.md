@@ -1,11 +1,11 @@
 -=-=-=-=-=-=LINUX=-=-=-=-=-=-
 
-$ apt update
-$ apt install git python3 zip unzip openssh-server php wget curl -y
+$ sudo apt update
+$ sudo apt install git python3 zip unzip openssh-server php wget curl -y
 $ cd
 $ git clone https://github.com/htr-tech/zphisher
 $ cd zphisher
-$ bash zphisher.sh
+$ sudo bash zphisher.sh
 
 -=-=-=-=-=-=TERMUX=-=-=-=-=-=-
 

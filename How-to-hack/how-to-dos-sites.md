@@ -1,12 +1,12 @@
 -=-=-=-=-=-=LINUX=-=-=-=-=-=-
 
-$ apt update
-$ apt install git python3 python3-pip
-$ pip3 install colorama requests
+$ sudo apt update
+$ sudo apt install git python3 python3-pip
+$ sudo pip3 install colorama requests
 $ cd
 $ git clone https://github.com/Andrey-oss/ddoser
 $ cd ddoser
-$ python3 ddos.py
+$ sudo python3 ddos.py
 
 -=-=-=-=-=-=TERMUX=-=-=-=-=-=-
 
